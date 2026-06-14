@@ -1,0 +1,3 @@
+data/raw/sp500_prices_raw.csv
+data/processed/model_predictions_21d.csv
+data/processed/sp500_features.csv
