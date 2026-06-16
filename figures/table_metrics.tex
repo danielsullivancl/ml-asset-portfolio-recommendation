@@ -1,0 +1,14 @@
+\begin{table}[htbp]
+\centering
+\caption{Métricas de avaliação no conjunto de teste (2024--2026). Em negrito: melhor IC.}
+\label{tab:metrics}
+\begin{tabular}{lccccc}
+\toprule
+\textbf{Modelo} & \textbf{MAE} & \textbf{RMSE} & \textbf{R\textsuperscript{2}} & \textbf{IC} & \textbf{ICIR} \\
+\midrule
+    \textbf{Linear Regression} & 0.0697 & 0.0992 & 0.0049 & \textbf{0.0382} & 0.1987 \\
+    LightGBM & 0.0694 & 0.0995 & 0.0006 & 0.0352 & 0.2100 \\
+    Random Forest & 0.0701 & 0.0999 & -0.0080 & 0.0279 & 0.1774 \\
+\bottomrule
+\end{tabular}
+\end{table}

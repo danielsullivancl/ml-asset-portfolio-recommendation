@@ -7,5 +7,6 @@ lightgbm>=4.0
 yfinance>=0.2
 requests>=2.28
 darts>=0.27
+shap>=0.44
 jupyter
 ipykernel
