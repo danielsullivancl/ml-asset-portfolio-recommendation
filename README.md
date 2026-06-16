@@ -1,6 +1,6 @@
 # Previsão de Retornos e Recomendação de Portfólio — S&P 500
 
-Trabalho final da disciplina de Aprendizagem de Máquina (Doutorado — UFC).
+Trabalho final da disciplina de Aprendizagem de Máquina
 
 O objetivo é prever o retorno de ativos do S&P 500 no horizonte de 21 dias úteis (~1 mês) e, com base nas previsões, agrupar os ativos por perfil de risco para suporte à recomendação de portfólio.
 
